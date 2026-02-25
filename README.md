@@ -1,10 +1,10 @@
 # Flight-Delays-Prediction-Model
 
 Shea:
-- Merged Location and Weather Events datasets using SQL
-- Cleaned Weather dataset by removing NaN values and unnecessary features
-- Created preliminary weather visualizations
-- Added cities by longitude and latitude using GeoPandas
+- Combined 10000+ global weather csv files into one U.S. weather csv
+- Cleaned weather dataset by converting missing values from numbers to NaN, removed unnecessary columns
+- Created preliminary weather visualization
+- Added cities by longitude and latitude using GeoPandas; created new combined csv
 
 Sahiti: 
 - Web Scraped BTS website for flight departure information using Selenium
