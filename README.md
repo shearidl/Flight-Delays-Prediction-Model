@@ -8,5 +8,6 @@ Shea:
 
 Sahiti: 
 - Web Scraped BTS website for flight departure information using Selenium
-- Scraped over 10 airports and 4 airlines, and combined datasets on Pandas
+- Researched top airports and airlines
+- Scraped 100 airports and 4 airlines
 - Cleaned and filtered flight data
