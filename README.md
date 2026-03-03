@@ -11,3 +11,7 @@ Sahiti:
 - Researched top airports and airlines
 - Scraped 100 airports and 4 airlines
 - Cleaned and filtered flight data
+- Combined origin and destination Airport locations (latitude and longitude) with flight data
+- Created a tree to map airports to nearest weather stations, combined with flight data
+- Combined weather and flight data based on nearest weather station to destination and origin
+- Cleaned combined data
