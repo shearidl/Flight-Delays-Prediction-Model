@@ -2,9 +2,11 @@
 
 Shea:
 - Combined 10000+ global weather csv files into one U.S. weather csv
-- Cleaned weather dataset by converting missing values from numbers to NaN, removed unnecessary columns
+- Cleaned weather dataset by handling missing values, removing unnecessary columns
 - Created preliminary weather visualization
-- Added cities by longitude and latitude using GeoPandas; created new combined csv
+- Added cities to weather data using GeoPandas
+- Conducted preliminary analysis of combined flight weather dataset
+- Developed, trained, and evaluated classifier ML models (SGDClassifier, LogisticRegression, HistGradientBoostingClassifier)
 
 Sahiti: 
 - Web Scraped BTS website for flight departure information using Selenium
