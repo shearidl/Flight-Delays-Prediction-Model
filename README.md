@@ -3,10 +3,15 @@
 Shea:
 - Combined 10000+ global weather csv files into one U.S. weather csv
 - Cleaned weather dataset by handling missing values, removing unnecessary columns
-- Created preliminary weather visualization
+- Created preliminary weather visualization to show data spread across the U.S.
 - Added cities to weather data using GeoPandas
 - Conducted preliminary analysis of combined flight weather dataset
-- Developed, trained, and evaluated classifier ML models (SGDClassifier, LogisticRegression, HistGradientBoostingClassifier)
+- Created visualizations to look at main correlations and delays by airline, time, and weather-feature
+- Developed and trained binary classifier ML models (SGDClassifier, LogisticRegression, HistGradientBoostingClassifier)
+- Attempted to use over- and under-sampling to balance classes
+- Evaluated by average precision, recall, and f1-score
+- Used validation score to ensure no overfitting
+- Analyzed feature importances
 
 Sahiti: 
 - Web Scraped BTS website for flight departure information using Selenium
